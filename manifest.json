@@ -1,0 +1,10 @@
+{
+  "name": "自动发卡",
+  "short_name": "发卡",
+  "start_url": "./index.php",
+  "display": "standalone",
+  "background_color": "#f0f9f0",
+  "theme_color": "#343a40",
+  "orientation": "portrait",
+  "icons": [{ "src": "logo.png", "sizes": "512x512", "type": "image/png" }]
+}
