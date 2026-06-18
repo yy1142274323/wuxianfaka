@@ -1,0 +1,12 @@
+config.php
+/storage/logs/*.log
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+.env
+.DS_Store
+Thumbs.db
+vendor/
+node_modules/
